@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of linkrobins/badge-labels.** Not for installation: use [Packagist](https://packagist.org/packages/linkrobins/badge-labels) or the [upstream repository](https://github.com/linkrobins/flarum-badge-labels).
 
-**0** versions archived · Latest: [`v2.3.0`](https://github.com/flarchive/linkrobins-badge-labels/tree/archive/v2.3.0) · License: `MIT` · Flarum: `^2.0`
+**13** versions archived · Latest: [`v2.3.0`](https://github.com/flarchive/linkrobins-badge-labels/tree/archive/v2.3.0) · License: `MIT` · Flarum: `^2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2026-07-29 | `>=1.8.0 <3.0.0` | [Browse](https://github.com/flarchive/linkrobins-badge-labels/tree/archive/v1.0.0) |
+| `v1.0.1` | 2026-07-30 | `>=1.8.0 <3.0.0` | [Browse](https://github.com/flarchive/linkrobins-badge-labels/tree/archive/v1.0.1) |
+| `v1.1.0` | 2026-08-01 | `>=1.8.0 <3.0.0` | [Browse](https://github.com/flarchive/linkrobins-badge-labels/tree/archive/v1.1.0) |
+| `v1.2.0` | 2026-08-02 | `>=1.8.0 <3.0.0` | [Browse](https://github.com/flarchive/linkrobins-badge-labels/tree/archive/v1.2.0) |
+| `v1.2.1` | 2026-08-02 | `^1.8` | [Browse](https://github.com/flarchive/linkrobins-badge-labels/tree/archive/v1.2.1) |
+| `v1.3.0` | 2026-08-05 | `^1.8` | [Browse](https://github.com/flarchive/linkrobins-badge-labels/tree/archive/v1.3.0) |
+| `v1.4.0` | 2026-08-09 | `^1.8` | [Browse](https://github.com/flarchive/linkrobins-badge-labels/tree/archive/v1.4.0) |
+| `v2.0.0` | 2026-08-02 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-badge-labels/tree/archive/v2.0.0) |
+| `v2.0.1` | 2026-08-02 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-badge-labels/tree/archive/v2.0.1) |
+| `v2.1.0` | 2026-08-05 | `^2.0` | [Browse](https://github.com/flarchive/linkrobins-badge-labels/tree/archive/v2.1.0) |
+
+[View all 13 versions](https://github.com/flarchive/linkrobins-badge-labels/tags)
 
 Catalog entry: [packages/linkrobins-badge-labels.json](https://github.com/flarchive/archive-index/blob/main/packages/linkrobins-badge-labels.json)
 
